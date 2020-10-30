@@ -26,7 +26,7 @@
  ### git tag 'TEXTO'
  Marcar compromissos no git
  ### git rabase <<nome_da_branch>>
- a base do branch onde o comando é executado
+ refaz a base do branch onde o comando é executado
  ### git remote -v
  faz com que repositórios remotos sejam listados, até a URL do repositório
  ### git merge <<nome_branch>>
