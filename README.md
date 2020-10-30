@@ -9,15 +9,16 @@
  ### git merge
  ### git status
  ### git log
- ### git branch <<nome da branch>>
+ ### git branch <<nome_da_branch>>
  ### git remote add origin https://github.com/giovanebmr/treinamento-git-trabalhando-em-equipes.git
  ### git remote rm origin
  ### git push -u origin master
  ### git branch
- ### git branch <<nome branch para criar>>
- ### git checkout -b <<nome branch para criar e alterar>>
+ ### git branch <<nome_branch_para_criar>>
+ ### git checkout -b <<nome_branc_para_criar_e_alterar>>
  ### git checkout <<nome da branch para alterar>>
- ### git branch -D <<nome da branch para deletar>>
- ### git push origin <<nome branch>>
+ ### git branch -D <<nome_da_branch_para_deletar>>
+ ### git push origin <<nome_branch>>
  ### git log --stat
-
+ ### git commit -a -m "modifica README"
+ 
