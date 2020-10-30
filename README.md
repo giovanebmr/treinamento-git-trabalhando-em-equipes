@@ -31,3 +31,19 @@
  faz com que repositórios remotos sejam listados, até a URL do repositório
  ### git merge <<nome_branch>>
  faz o merge da branch atual com a branch especificada
+ ### git commit --amend
+ comando utilizado para editar a mensagem do último commit
+ ### git checkout -- NOME_DO_ARQUIVO
+ comando se deve utilizar quando você quer para 'resetar' as alterações de um arquivo
+ ### git config --global user.name "SEU NOME" - git config --global user.email "SEU ENDEREÇO DE E-MAIL"
+ comando para configurar usuario e e-mail na máquina
+ ### git reset HEAD NOME_DO_ARQUIVO
+ retirar um arquivo adicionado para commitar (após utilizar git add)
+ ### git diff NOME_DO_ARQUIVO
+ para ver as modificações feitas no arquivo
+
+
+
+
+
+
