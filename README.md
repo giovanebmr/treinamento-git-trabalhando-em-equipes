@@ -19,4 +19,5 @@
  ### git checkout <<nome da branch para alterar>>
  ### git branch -D <<nome da branch para deletar>>
  ### git push origin <<nome branch>>
+ ### git log --stat
 
