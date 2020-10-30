@@ -20,5 +20,5 @@
  ### git branch -D <<nome_da_branch_para_deletar>>
  ### git push origin <<nome_branch>>
  ### git log --stat
- ### git commit -a -m "modifica README"
+ ### git commit -a -m "adiciona e comita"
  
