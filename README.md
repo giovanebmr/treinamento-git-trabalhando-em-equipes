@@ -20,5 +20,12 @@
  ### git branch -D <<nome_da_branch_para_deletar>>
  ### git push origin <<nome_branch>>
  ### git log --stat
+ consultar os commits, e suas estatísticas abreviadas, criados no Github 
  ### git commit -a -m "adiciona e comita"
- 
+ ### git remote
+ ### git tag 'TEXTO'
+ Marcar compromissos no git
+ ### git rabase <<nome_arquivo>>
+ junta arquivos de duas branches sem gerar um novo evento
+ ### git remote -v
+ repositórios remotos sejam listados, até a URL do repositório
