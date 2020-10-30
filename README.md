@@ -29,3 +29,5 @@
  a base do branch onde o comando é executado
  ### git remote -v
  faz com que repositórios remotos sejam listados, até a URL do repositório
+ ### git merge <<nome_branch>>
+ faz o merge da branch atual com a branch especificada
