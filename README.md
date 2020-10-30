@@ -25,7 +25,7 @@
  ### git remote
  ### git tag 'TEXTO'
  Marcar compromissos no git
- ### git rabase <<nome_arquivo>>
- junta arquivos de duas branches sem gerar um novo evento
+ ### git rabase <<nome_da_branch>>
+ a base do branch onde o comando é executado
  ### git remote -v
- repositórios remotos sejam listados, até a URL do repositório
+ faz com que repositórios remotos sejam listados, até a URL do repositório
