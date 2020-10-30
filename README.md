@@ -13,3 +13,9 @@
  ### git remote add origin https://github.com/giovanebmr/treinamento-git-trabalhando-em-equipes.git
  ### git remote rm origin
  ### git push -u origin master
+ ### git branch
+ ### git branch <<nome branch para criar>>
+ ### git checkout -b <<nome branch para criar e alterar>>
+ ### git checkout <<nome da branch para alterar>>
+ ### git branch -D <<nome da branch para deletar>>
+
