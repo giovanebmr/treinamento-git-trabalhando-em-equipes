@@ -64,7 +64,7 @@
  dangling commit fafeade9f348b18f37835ab49dab40172efde693
 
  ### git log --pretty=oneline 
- Esse comando vai retornar um log resumido das ultimas alterações
+ Esse comando vai retornar um log resumido das ultimas alterações, algo como:
  6e3404f29ee15d8c0757d8f67b0ec2a029a5a719 (HEAD, master) Revert "basic game"
  02f295af7e847fa5b4552fe43f4adc3462330d0b basic game
 
