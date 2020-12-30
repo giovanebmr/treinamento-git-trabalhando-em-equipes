@@ -59,6 +59,20 @@
  ### git diff NOME_DO_ARQUIVO
  para ver as modificações feitas no arquivo
 
+ ### git fsck --no-reflog
+ Esse comando vai retornar o hash do commit perdido, algo como:
+ dangling commit fafeade9f348b18f37835ab49dab40172efde693
+
+ ### git log --pretty=oneline 
+ Esse comando vai retornar um log resumido das ultimas alterações
+ 6e3404f29ee15d8c0757d8f67b0ec2a029a5a719 (HEAD, master) Revert "basic game"
+ 02f295af7e847fa5b4552fe43f4adc3462330d0b basic game
+
+ ### git checkout 02f295af7e847fa5b4552fe43f4adc3462330d0b
+ Com o código hash identificado basta fazer esse comando para recuperar os arquivos perdidos
+
+
+
 
 
 
