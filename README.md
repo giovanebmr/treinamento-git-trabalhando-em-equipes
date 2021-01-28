@@ -71,7 +71,8 @@
  ### git checkout 02f295af7e847fa5b4552fe43f4adc3462330d0b
  Com o código hash identificado basta fazer esse comando para recuperar os arquivos perdidos
 
-
+ ### Revertendo o último commit
+ git reset --soft HEAD~1
 
 
 
