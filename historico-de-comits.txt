@@ -1,0 +1,25 @@
+e24232d add nova funcionalidade 2
+b6376aa adiciona arquivo 2 na branch nova
+7ec1159 primeiro comit da branch nova
+82b2d3d add arquivo aula branche
+c458463 Update README.md
+e0ec768 Update README.md
+e5335be Update README.md
+3e0b352 adiciona descrição na lista de comandos Git
+853ef77 altera README
+fc56901 altera README
+490dc73 modifica README
+4bf2ddb modifica README
+1c25724 adiciona contato.html da branch contato
+162235f modifica README
+afcf741 cria arquivo html contato
+fb82a4f altera README
+0d490cd modifica README
+fa82e20 modifica README
+267e294 modifica README
+53c20be altera README
+2fb5ab2 altera README
+8cebbe6 modifica README
+f191d3f modifica README
+737d373 adicionado sample html
+7e654ad inicia o projeto

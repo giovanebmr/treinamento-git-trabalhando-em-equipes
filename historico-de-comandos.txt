@@ -1,0 +1,500 @@
+   15  nano.exe Referências.txt 
+   16  git pull
+   17  git status
+   18  git commit
+   19  git status
+   20  git pull
+   21  git add .
+   22  git commit -m 'update'
+   23  git push
+   24  git status
+   25  cd ..
+   26  ls
+   27  cd ..
+   28  ls
+   29  cd Kotlin/git/Kotlin/
+   30  ls
+   31  git status
+   32  git pull
+   33  git add .
+   34  git commit -m 'add viewmodel-app'
+   35  git push
+   36  git pull
+   37  cd c:
+   38  cd git/
+   39  cd Analise\ e\ Engenharia\ de\ Dados/Analise-de-Dados/
+   40  ls
+   41  git status
+   42  git pull
+   43  cd c:
+   44  cd git/Kotlin/
+   45  ls
+   46  cd git/
+   47  ls
+   48  cd Kotlin/
+   49  ls
+   50  git status
+   51  git pull
+   52  git status
+   53  git add .
+   54  git commit -m "add app contatos-app"
+   55  git push
+   56  git status
+   57  git pull
+   58  git add .
+   59  ls
+   60  git status
+   61  git commit -m 'contact-app entregue conforme as aulas da dio, com pequenas alterações'
+   62  git push
+   63  git pull
+   64  git status
+   65  ls
+   66  cd C:\git\Analise e Engenharia de Dados\Web-Scraping
+   67  ls
+   68  cd /
+   69  cd C:\git\Analise e Engenharia de Dados\Web-Scraping
+   70  ls
+   71  cd c:
+   72  cd 'C:\git\Analise e Engenharia de Dados\Web-Scraping'
+   73  ls
+   74  git clone https://github.com/giovanebmr/Treinamento-Web-Scraping.git
+   75  git status
+   76  ls
+   77  git pull
+   78  ls
+   79  git status
+   80  ls
+   81  git clone https://github.com/giovanebmr/Treinamento-Web-Scraping.git
+   82  ls
+   83  git add .
+   84  git status
+   85  ls
+   86  git reset
+   87  git status
+   88  ls
+   89  git add *
+   90  git status
+   91  git pull
+   92  git commit -m 'inicial'
+   93  git push
+   94  ls
+   95  git status
+   96  ls
+   97  git clone https://github.com/giovanebmr/Treinamento-Web-Scraping.git
+   98  git init
+   99  git remote add origin https://github.com/giovanebmr/Treinamento-Web-Scraping.git
+  100  git checkout main
+  101  git branch
+  102  git pull
+  103  git status
+  104  ls
+  105  git pull <remote> <branch>
+  106  git pull https://github.com/giovanebmr/Treinamento-Web-Scraping.git main
+  107  ls
+  108  git branch
+  109  git status
+  110  git add *
+  111  git status
+  112  git commit -m 'inicial'
+  113  git status
+  114  git branch
+  115  git push
+  116  git push --set-upstream origin master
+  117  git status
+  118  git status
+  119  ls
+  120  git push -f
+  121  git revert HEAD^
+  122  ls
+  123  git status
+  124  git branch
+  125  git status
+  126  rmdir .git
+  127  ls
+  128  rmdir -f .git
+  129  rm -f .git
+  130  rmdir .git
+  131  rm -rf .git
+  132  ls
+  133  git status
+  134  ls
+  135  cd c:
+  136  cd git/Kotlin/git/
+  137  ls
+  138  cd Kotlin/
+  139  cd Kotlin\ for\ Java\ Developers/
+  140  ls
+  141  nano hello-world.kt
+  142  ls
+  143  kotlinc hello-world.kt ínclude-runtime -d hello-world.jar
+  144  ls
+  145  kotlinc hello-world.kt -ínclude-runtime -d hello-world.jar
+  146  ls
+  147  kotlinc hello-world.kt -include-runtime -d  hello-world.jar
+  148  ls
+  149  kotlinc hello-world.kt -include-runtime -d hello-world.jar
+  150  ls
+  151  java -jar hello-world.jar
+  152  java -jar hello-world.jar teste
+  153  java -jar hello-world.jar "Giovane Reis"
+  154  nano hello-world.kt 
+  155  nano foo.kt
+  156  kotlin foo.kt -include-runtime -d foo.jar
+  157  ls
+  158  kotlinc foo.kt -include-runtime -d foo.jar
+  159  ls
+  160  java -jar foo.jar
+  161  fit status
+  162  cd ..
+  163  ls
+  164  git status
+  165  mv VideoStreamingApp "C:\git"
+  166  ls
+  167  ls
+  168  git status
+  169  git pull
+  170  git pull
+  171  git add .
+  172  git commit -m 'add kotlin for java developers'
+  173  ls
+  174  git status
+  175  git push
+  176  cd Kotlin\ for\ Java\ Developers/
+  177  ls
+  178  ls
+  179  cd ..
+  180  ls
+  181  git status
+  182  git pull
+  183  cd Kotlin\ for\ Java\ Developers/
+  184  ls
+  185  ls
+  186  kotlinc hello-function.kt -include-runtime -d hello-function.jar
+  187  ls
+  188  cd ..
+  189  git pull
+  190  git status
+  191  git add .
+  192  git commit -m 'kotlin for java developers and content provider'
+  193  git push
+  194  git status
+  195  git add .
+  196  git commit -m "update"
+  197  git push
+  198  git status
+  199  git add .
+  200  git commit -m "update"
+  201  git push
+  202  cd ..
+  203  cd ..
+  204  cd git/Kotlin/git/Kotlin/
+  205  ls
+  206  git status
+  207  git pull
+  208  git add .
+  209  git commit -m 'update'
+  210  git push
+  211  flutter doctor
+  212  cd ..
+  213  cd ..
+  214  ls
+  215  cd git/
+  216  ls
+  217  rm -rf .git
+  218  ls
+  219  cd .git
+  220  cd Kotlin/
+  221  cd git/
+  222  ls
+  223  cd Kotlin/
+  224  ls
+  225  cd curso\ udemy/
+  226  ls
+  227  mv sorteio\ app/ sorteio_app
+  228  ls
+  229  cd sorteio_app/
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd ..
+  234  ls
+  235  git status
+  236  ls
+  237  git pull
+  238  git add .
+  239  git commit -m 'add sorteio app'
+  240  git push
+  241  git status
+  242  cd curso\ udemy/
+  243  ls
+  244  ls
+  245  kotlinc
+  246  ls
+  247  kotlinc HelloKotlin.kt -include-runtime -d HelloKotlin.jar
+  248  kotlinc HelloKotlin.kt -include-runtime -d HelloKotlin.jar
+  249  ls
+  250  java -jar HelloKotlin.jar 
+  251  kotlinc Variaveis.kt -include-runtime -d Variaveis.jar
+  252  java -jar Variaveis.jar 
+  253  kotlinc Variaveis.kt -include-runtime -d Variaveis.jar
+  254  git clone https://github.com/brunoluizcs/android-bootcamp-threading.git
+  255  git checkout exercise-asynctask
+  256  ls
+  257  cd android-bootcamp-threading/
+  258  git checkout exercise-asynctask
+  259  ls
+  260  git c:
+  261  cd c:
+  262  cd git/Kotlin/git/Kotlin/
+  263  ls
+  264  git pull
+  265  git pull
+  266  git pull
+  267  cd c:
+  268  cd git/
+  269  cd APP/
+  270  cd ..
+  271  cd APP/
+  272  ls
+  273  cd Denis\ Rodrigues\ V1/
+  274  ls
+  275  cd Git/
+  276  ls
+  277  git clone https://github.com/giovanebmr/DenisRodrigues.git
+  278  cd ..
+  279  cd ..
+  280  cd ..
+  281  ls
+  282  mkdir 'Denis Rodrigues v1'
+  283  cd Denis\ Rodrigues\ v1/
+  284  ls
+  285  mkdir git
+  286  cd git/
+  287  ls
+  288  git clone https://github.com/giovanebmr/DenisRodriguesV1.git
+  289  ls
+  290  cd DenisRodriguesV1/
+  291  ls
+  292  cd ..
+  293  ls
+  294  ls
+  295  cd DenisRodriguesV1/
+  296  ls
+  297  cd DenisRodrigues2/
+  298  ls
+  299  git status
+  300  cd ..
+  301  ls
+  302  cd ..
+  303  ls
+  304  git status
+  305  ls
+  306  ls
+  307  cd DenisRodriguesV1/
+  308  ls
+  309  git status
+  310  git pull
+  311  ls
+  312  nano README.md 
+  313  ls
+  314  git status
+  315  git pull
+  316  ls
+  317  ls
+  318  cd ..
+  319  ls
+  320  cd DenisRodriguesV2
+  321  ls
+  322  git clone https://github.com/giovanebmr/DenisRodriguesV2.git
+  323  cd ..
+  324  ls
+  325  git clone https://github.com/giovanebmr/DenisRodriguesV2.git
+  326  ls
+  327  cd DenisRodriguesV1
+  328  ls
+  329  git status
+  330  git pull
+  331  cd ..
+  332  ls
+  333  cd DenisRodriguesV2
+  334  ls
+  335  git status
+  336  cd ..
+  337  ls
+  338  cd DenisRodriguesV1
+  339  git pull
+  340  git status
+  341  git add .
+  342  git commit -m 'add app denis rodrigues v1'
+  343  git push
+  344  ls
+  345  cd ..
+  346  cd DenisRodriguesV2
+  347  ls
+  348  git status
+  349  git add .
+  350  git commit -m 'add denis rodrigues app v2'
+  351  git push
+  352  cd ..
+  353  ls
+  354  cd ..
+  355  ls
+  356  cd ..
+  357  ls
+  358  cd Kotlin/
+  359  ls
+  360  cd git/
+  361  ls
+  362  cd android-bootcamp-threading/
+  363  ls
+  364  cd ..
+  365  ls
+  366  git status
+  367  cd Kotlin/
+  368  ls
+  369  git status
+  370  git pull
+  371  git status
+  372  git add .
+  373  git status
+  374  git commit -m 'add fatorial teste'
+  375  git status
+  376  git push
+  377  git status
+  378  cd c:
+  379  ls
+  380  cd git/
+  381  cd Kotlin/
+  382  ls
+  383  cd git/
+  384  ls
+  385  cd Kotlin/
+  386  ls
+  387  cd ..
+  388  ls
+  389  cd ..
+  390  ls
+  391  cd ..
+  392  ls
+  393  cd Denis\ Rodrigues/
+  394  ls
+  395  cd git/
+  396  ls
+  397  git status
+  398  cd DenisRodriguesV1
+  399  ls
+  400  git status
+  401  cd ..
+  402  ls
+  403  cd DenisRodriguesV1
+  404  git pull
+  405  cd ..
+  406  cd DenisRodriguesV2
+  407  git status
+  408  git add .
+  409  git commit -m 'update'
+  410  git push
+  411  cd :
+  412  cd c:
+  413  cd git/Kotlin/
+  414  cd git/
+  415  ls
+  416  cd Kotlin/
+  417  ls
+  418  git status
+  419  git pull
+  420  git status
+  421  ls
+  422  git status
+  423  git pull
+  424  git status
+  425  git add .
+  426  git commit -m 'update'
+  427  git push
+  428  git status
+  429  git pull
+  430  git status
+  431  git pull
+  432  git status
+  433  git push
+  434  git status
+  435  git status
+  436  cd c:
+  437  cd git/
+  438  cd treinamento
+  439  ls
+  440  it status
+  441  git status
+  442  cd ..
+  443  ls
+  444  git clone https://github.com/giovanebmr/treinamento-git-trabalhando-em-equipes.git
+  445  git clone https://github.com/giovanebmr/treinamento-git-trabalhando-em-equipes.git
+  446  git status
+  447  cd treinamento-git-trabalhando-em-equipes/
+  448  ls
+  449  nano 'Trabalhando com Branches'.md
+  450  ls
+  451  rm Trabalhando\ com\ Branches.md 
+  452  ls
+  453  nano Branches.md
+  454  ls
+  455  ls
+  456  mkdir aula-branches
+  457  ls
+  458  cd aula-branches/
+  459  git status
+  460  cd ..
+  461  git status
+  462  git pull
+  463  git add .
+  464  git status
+  465  ls
+  466  git remote -v
+  467  git commit -m 'add arquivo aula branche'
+  468  git status
+  469  git status
+  470  ls
+  471  git branch
+  472  git push
+  473  ls
+  474  git checkout -b nova-branch
+  475  git remote -v
+  476  git branch
+  477  git pull
+  478  ls
+  479  git status
+  480  git commit -m 'nova branch'
+  481  git add .
+  482  git commit -m 'nova branch'
+  483  git status
+  484  git push
+  485  ls
+  486  cd aula-branches/
+  487  ls
+  488  touch arquivo1
+  489  ls
+  490  cd ..
+  491  ls
+  492  git status
+  493  git add .
+  494  git status
+  495  git commit -m 'primeiro comit da branch nova'
+  496  git push
+  497  git push --set-upstream origin nova-branch
+  498  ls
+  499  git branch
+  500  git checkout master
+  501  cd c:
+  502  cd git/
+  503  cd treinamento-git-trabalhando-em-equipes/
+  504  git log HEAD
+  505  git log funcionalidade
+  506  history
+  507  history cat > comandos-aula-branch.txt
+  508  ls
+  509  nano.exe comandos-aula-branch.txt 
+  510  git log --oneline
+  511  git log --oneline >> historico-de-comits.txt
+  512  ls
+  513  nano historico-de-comits.txt 
+  514  history >> historico-de-comandos.txt
