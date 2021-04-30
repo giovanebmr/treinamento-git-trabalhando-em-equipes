@@ -1,0 +1,24 @@
+  753  git log --oneline
+  754  ls
+  755  git revert HEAD~1
+  756  ls
+  757  git log --oneline
+  758  git revert HEAD~1
+  759  git log --oneline
+  760  ls
+  761  ls
+  762  git status
+  763  ls
+  764  git log --oneline
+  765  git revert 7d08233
+  766  ls
+  767  git log --oneline
+  768  git status
+  769  ls
+  770  cd ..
+  771  ls
+  772  git status
+  773  git pull
+  774  git status
+  775  ls
+  776  history >> historico-de-comandos-revert.txt
