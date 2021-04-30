@@ -1,0 +1,30 @@
+  841  git log --oneline
+  842  git config --global --unset core.editor
+  843  git config --global --list
+  844  git config --global core.editor "vim"
+  845  git commit 
+  846  git config --global --list
+  847  touch file6.txt
+  848  git add file6.txt 
+  849  git config --global --list
+  850  git config --global core.editor "nano"
+  851  git commit 
+  852  git status
+  853  ls
+  854  ls
+  855  touch file7.txt
+  856  git status
+  857  git add file7.txt 
+  858  git status
+  859  git commit 
+  860  git status
+  861  git push
+  862  nano README.md 
+  863  git status
+  864  git add README.md 
+  865  git status
+  866  git commit 
+  867  git push
+  868  git status
+  869  ls
+  870  history >> historico-de-comandos-aula-extras.txt
