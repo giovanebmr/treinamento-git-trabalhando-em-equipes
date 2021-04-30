@@ -1,4 +1,4 @@
-# Introdução ao Git e Controle de Versões
+# Olá! bem vindo ao treinamento de Introdução ao Git e Controle de Versões
 
  ### git init
  inicia um repositório git local
